@@ -1,0 +1,12 @@
+# Folders
+drafts/
+.idea/
+__pycache__/
+input_data/
+output_data/
+
+# Python Modules
+*_test.py
+
+# Others
+symbology-style.db
